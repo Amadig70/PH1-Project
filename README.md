@@ -1,5 +1,6 @@
 ﻿<h1 style="font-size: 40px;">MS STUDIOS MARKET LANDSCAPE ANALYSYS</h1>
-     ![Local Image](Logo.jpg)
+ 
+ ![Local Image](Logo.jpg)
      
 <h1 style="font-size: 18px;">Overview</h1>
 This project analyses the understanding of the market landscape needed to by Microsoft to start a new movie studio, which looks to secure a portion of the market that is already dominated by the existing movie produces and eventually become the leading studio. Exploratory analysis of the movies produced, the ratings, the genre the sales/revenue, the market capture among the existing movie producers and the average runtime of the movies being produced. The MS studios can use this analysis to understand their immediate market to inform decision making as they build one of the leading movie studios, MS STUDIOS. 
@@ -11,7 +12,8 @@ Microsoft sees all the big companies creating original video content and they wa
 The data is from IMDB Web site that provides information about multiple movies, films, and TV programs. This data has consistent updates and its reliable based on the background research I undertaken. This data will assist me in getting insights that will enable me advice Microsoft on what movies to start with when starting their new movie production. The data also speaks to movie length and sales made by movies and the respective producers who represent the market competition.
 
 <h1 style="font-size: 18px;">Methods and Results</h1>
-Qn. Based on genre, What type of movies generate the most revenues and what’s the relationship of the movie rating to sales? 
+Qn. Based on genre, What type of movies generate the most revenues and what’s the relationship of the movie rating to sales?
+
 ![Local Image](output_49_0.png)
 
 A combination of action, adventure and Sci-Fi perform better in revenue generation as compared to the other sets of diversifications of films. This is closely followed by a combination of action, adventure & comedy and at third place action, adventure & fantasy. With this trend it is ok to conclude that films with both action and adventure combined in one set does well in sales generation. 
