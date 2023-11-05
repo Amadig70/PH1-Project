@@ -10,7 +10,7 @@ This project analyses the understanding of the market landscape needed to by Mic
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create. 
 
- <h1 style="font-size: 18px;">Understanding the dataBusiness</h1>
+ <h1 style="font-size: 18px;">Understanding the data</h1>
  
 The data is from IMDB Web site that provides information about multiple movies, films, and TV programs. This data has consistent updates and its reliable based on the background research I undertaken. This data will assist me in getting insights that will enable me advice Microsoft on what movies to start with when starting their new movie production. The data also speaks to movie length and sales made by movies and the respective producers who represent the market competition.
 
