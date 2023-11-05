@@ -75,8 +75,9 @@ Further analyses could yield additional insights to further improve oversight on
 • This modelling could identify the specific genre of movie targeting a specific group of people and staying consistent to it.
 
 
-<h1 style="font-size: 18px;">Contact Information</h1>
+<h1 style="font-size: 14px;">Contact Information</h1>
 
 Name: Amadi Growman
+
 Email:amadi.growman@student.moringaschool.com 
     
